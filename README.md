@@ -4,7 +4,7 @@ created: 2019<br />
 
 
 author copyright marcin matysek (r)ewertyn.PL<br />
- 2marcin56@gmail.com<br />
+ marcin.rewertyn@gmail.com<br />
 
 
 open-source
