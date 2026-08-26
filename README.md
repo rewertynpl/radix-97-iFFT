@@ -65,3 +65,8 @@ void fun_inverse_fourier_transform_FFT_mixed_radix(int N,std::complex<double> ta
 <br />
 }<br />
 */<br />
+ERROR:
+in void fun_fourier_transform_DFT
+delete tab2;
+CORRECT:
+delete [] tab2;
