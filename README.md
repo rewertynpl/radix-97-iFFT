@@ -2,6 +2,7 @@
 universal mixed radix fast fourier transform FFT iFFT c++ source code radix-97 radix-2 radix-3 radix-4 radix-5 radix-7 radix-11 c++ , + inverse table, with shift fi 
 created: 2019<br />
 
+double (*tab)[10];
 
 author copyright marcin matysek (r)ewertyn.PL<br />
  marcin.rewertyn@gmail.com<br />
